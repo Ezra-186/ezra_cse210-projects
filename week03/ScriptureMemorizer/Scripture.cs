@@ -1,4 +1,4 @@
-using System.Linq;  // for .Select() and .All()
+using System.Linq;
 
 public class Scripture
 {
